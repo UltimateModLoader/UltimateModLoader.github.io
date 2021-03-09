@@ -1,0 +1,20 @@
+@font-face {
+	font-family: KgNextToMeSketched;
+	src: url("./fonts/KgNextToMeSketched-BOA5.ttf");
+}
+
+@font-face {
+	font-family: KgNextToMeSolid;
+	src: url("./fonts/KgNextToMeSolid-82Az.ttf");
+}
+
+body {
+	background: #93DDF8;
+	color: white;	
+	font-family: KgNextToMeSolid;
+	text-shadow: 2px 1px #555B61;
+}
+
+main {
+	text-align: center;
+}
