@@ -19,6 +19,13 @@ main {
 	text-align: center;
 }
 
+footer {
+	display: inline;
+	text-align: center;
+	margin-top: 1rem;
+	font-size: 1.25em;
+}
+
 .warning-container {
 	background: rgb(144, 0, 0);
 	width: 75%;
@@ -30,4 +37,10 @@ main {
 .warning {
 	text-shadow: none;
 	font-family: KgNextToMeSketched;
+}
+
+.avatar {
+	position: relative;
+	height: 3rem;
+	top: 10px;
 }
