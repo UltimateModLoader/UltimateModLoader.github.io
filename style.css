@@ -9,8 +9,9 @@
 }
 
 body {
-	background: #93DDF8;
-	color: white;	
+	background: linear-gradient(#1C294F 50%, #31486C) no-repeat center center fixed;
+	background-size: cover;
+	color: white;
 	font-family: KgNextToMeSolid;
 	text-shadow: 2px 1px #555B61;
 }
